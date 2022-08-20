@@ -10,12 +10,14 @@
         }
       },
       "bayi": {
-        "old_price": {
-            "string": "19.900"
-        },
-        "new_price": {
-            "string": "14.900"
-        }
+        "string": [{
+            "old_price": {
+                "string": "19.900"
+            },
+            "new_price": {
+                "string": "14.900"
+            }
+        }]
         }
       },
       "body": {
