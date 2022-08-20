@@ -1,28 +1,14 @@
 {
-    "Price": [
-        {
-            "bayi": {
-                "old_price": "19.900",
-                "new_price": "14.900"
-            }
-        },
-        {
-            "pelajar": {
-                "old_price": "46.900",
-                "new_price": "23.450"
-            }
-        },
-        {
-            "personal": {
-                "old_price": "50.900",
-                "new_price": "38.900"
-            }
-        },
-        {
-            "bisnis": {
-                "old_price": "109.900",
-                "new_price": "65.900"
-            }
-        }
-    ]
-}
+    "Post": {
+      "title": { "string": {} },
+      "comments": {
+        "hasMany": "Comment"
+      }
+    },
+    "Comment": {
+      "body": { "string": {} },
+      "post": {
+        "belongsTo": "Post"
+      }
+    }
+  }
