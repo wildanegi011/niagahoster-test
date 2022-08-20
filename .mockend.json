@@ -1,5 +1,5 @@
 {
-    "Post": {
+    "Price": {
       "cover": {
         "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
       },
@@ -7,6 +7,15 @@
         "loremWords": {
           "minLength": 5,
           "maxLength": 20
+        }
+      },
+      "bayi": {
+        "old_price": {
+            "string": "19.900"
+        },
+        "new_price": {
+            "string": "14.900"
+        }
         }
       },
       "body": {
