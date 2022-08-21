@@ -9,16 +9,21 @@
           "maxLength": 20
         }
       },
-      "bayi": {
-        "string": [{
-            "old_price": {
-                "string": "19.900"
-            },
-            "new_price": {
-                "string": "14.900"
-            }
-        }]
-        }
+      "new_price": {
+        "string": [
+          "14.900",
+          "23.450",
+          "38.900",
+          "65.900"
+        ]
+      },
+      "old_price": {
+        "string": [
+          "19.900",
+          "46.900",
+          "50.900",
+          "109.900"
+        ]
       },
       "body": {
         "loremParagraphs": {
