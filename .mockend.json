@@ -1,45 +1,28 @@
 {
     "Price": {
-      "cover": {
-        "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+      "bayi_new_price": {
+        "string": "14.900"
       },
-      "title": {
-        "loremWords": {
-          "minLength": 5,
-          "maxLength": 20
-        }
+      "bayi_old_price": {
+        "string": "19.900"
       },
-      "new_price": {
-        "string": [
-          "14.900",
-          "23.450",
-          "38.900",
-          "65.900"
-        ]
+      "pelajar_new_price": {
+        "string": "23.450"
       },
-      "old_price": {
-        "string": [
-          "19.900",
-          "46.900",
-          "50.900",
-          "109.900"
-        ]
+      "pelajar_old_price": {
+        "string": "46.900"
       },
-      "body": {
-        "loremParagraphs": {
-          "minLength": 10,
-          "maxLength": 100
-        }
+      "personal_new_price": {
+        "string": "38.900"
       },
-      "tag": {
-        "string": [
-          "one",
-          "two",
-          "three"
-        ]
+      "personal_old_price": {
+        "string": "50.900"
       },
-      "isDraft": {
-        "boolean": {}
+      "bisnis_new_price": {
+        "string": "65.900"
+      },
+      "bisnis_old_price": {
+        "string": "109.900"
       },
       "createdAt": {
         "dateTime": {
