@@ -1,28 +1,28 @@
 {
     "Price": {
       "bayi_new_price": {
-        "string": "14.900"
+        "string": ["14.900"]
       },
       "bayi_old_price": {
-        "string": "19.900"
+        "string": ["19.900"]
       },
       "pelajar_new_price": {
-        "string": "23.450"
+        "string": ["23.450"]
       },
       "pelajar_old_price": {
-        "string": "46.900"
+        "string": ["46.900"]
       },
       "personal_new_price": {
-        "string": "38.900"
+        "string": ["38.900"]
       },
       "personal_old_price": {
-        "string": "50.900"
+        "string": ["50.900"]
       },
       "bisnis_new_price": {
-        "string": "65.900"
+        "string": ["65.900"]
       },
       "bisnis_old_price": {
-        "string": "109.900"
+        "string": ["109.900"]
       },
       "createdAt": {
         "dateTime": {
