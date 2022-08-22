@@ -1,0 +1,32 @@
+version: '3.5'
+
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: wildan/landingpage
+    container_name: niagahoster-landingpage
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
+    networks:
+      - landingpage
+
+  nginx:
+    image: nginx:alpine
+    container_name: niagahoster-landingpage-nginx
+    restart: unless-stopped
+    ports:
+      - 8009:80
+    volumes:
+      - ./:/var/www
+      - ./config/nginx:/etc/nginx/conf.d/
+    networks:
+      - landingpage
+
+
+networks:
+  landingpage:
+    name: landingpage

@@ -1,0 +1,157 @@
+[09-Feb-2021 09:59:33 UTC] Page  not found
+[09-Feb-2021 10:00:03 UTC] Page  not found
+[09-Feb-2021 10:14:37 UTC] Page  not found
+[09-Feb-2021 10:25:36 UTC] Page  not found
+[09-Feb-2021 10:40:14 UTC] 8 Undefined property: Box_Di::$_get /var/www/public/index.php 17
+[09-Feb-2021 10:40:14 UTC] 8 Trying to access array offset on value of type null /var/www/public/index.php 17
+[09-Feb-2021 10:40:14 UTC] 8 Undefined property: Box_Di::$_get /var/www/public/index.php 17
+[09-Feb-2021 10:40:14 UTC] 8 Trying to access array offset on value of type null /var/www/public/index.php 17
+[09-Feb-2021 10:40:28 UTC] 8 Undefined property: Box_Di::$_url /var/www/public/index.php 17
+[09-Feb-2021 10:40:28 UTC] 8 Undefined property: Box_Di::$_url /var/www/public/index.php 17
+[09-Feb-2021 10:42:03 UTC] Call to undefined method Box_Di::getURI()
+[09-Feb-2021 10:42:03 UTC] Call to undefined method Box_Di::getURI()
+[09-Feb-2021 10:42:03 UTC] Call to undefined method Box_Di::getURI()
+[09-Feb-2021 10:42:40 UTC] 8 Undefined property: Box_Request::$_url /var/www/public/index.php 17
+[09-Feb-2021 10:42:40 UTC] 8 Undefined property: Box_Request::$_url /var/www/public/index.php 17
+[09-Feb-2021 10:43:39 UTC] Unable to find template "mod_page_favicon.ico" (looked into: /var/www/public/bb-themes/boxbilling/html, /var/www/public/bb-modules/Page/html_client).
+[09-Feb-2021 10:43:39 UTC] Page /favicon.ico not found
+[09-Feb-2021 18:50:41 UTC] SQLSTATE[HY000] [2002] Connection refused
+[09-Feb-2021 18:50:42 UTC] SQLSTATE[HY000] [2002] Connection refused
+[09-Feb-2021 18:50:42 UTC] SQLSTATE[HY000] [2002] Connection refused
+[09-Feb-2021 18:56:08 UTC] Unable to find template "mod_page_favicon.ico" (looked into: /var/www/public/bb-themes/boxbilling/html, /var/www/public/bb-modules/Page/html_client).
+[09-Feb-2021 18:56:08 UTC] Page /favicon.ico not found
+[22-Aug-2022 09:12:45 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:12:45 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:12:46 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:13:10 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:13:10 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:13:10 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 09:15:00 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:15:00 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:15:01 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:16:39 UTC] SQLSTATE[HY000] [2002] Host is unreachable
+[22-Aug-2022 09:16:44 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:16:49 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:22:57 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:22:59 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:23:04 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:23:09 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:23:23 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:23:28 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:23:33 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:30:45 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:30:50 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:30:55 UTC] SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Try again
+[22-Aug-2022 09:33:49 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:49 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:49 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:50 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:50 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:51 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:33:52 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:34:13 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:34:13 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:34:13 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:14 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:14 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:14 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:15 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:15 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:15 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:29 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:29 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:35:29 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:02 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:02 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:02 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:03 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:03 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:03 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:04 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:05 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:16 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:16 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:16 UTC] SQLSTATE[HY000] [2002] Connection refused
+[22-Aug-2022 09:36:28 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:36:29 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:36:43 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:38:53 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:38:53 UTC] Please check your login details 403
+[22-Aug-2022 09:39:02 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:02 UTC] Please check your login details 403
+[22-Aug-2022 09:39:09 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:09 UTC] Page /login?&register=1 not found
+[22-Aug-2022 09:39:21 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:21 UTC] Page /login?&register=1 not found
+[22-Aug-2022 09:39:27 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:27 UTC] Please check your login details 403
+[22-Aug-2022 09:39:41 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:42 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:43 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:43 UTC] Unable to find template "mod_page_favicon.ico" (looked into: /var/www/public/bb-themes/boxbilling/html, /var/www/public/bb-modules/Page/html_client).
+[22-Aug-2022 09:39:43 UTC] Page /favicon.ico not found
+[22-Aug-2022 09:39:50 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:51 UTC] Call to undefined function RedBeanPHP\new\ArrayIterator()
+[22-Aug-2022 09:39:55 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:39:55 UTC] Call to undefined function RedBeanPHP\new\ArrayIterator()
+[22-Aug-2022 09:40:09 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:40:09 UTC] Call to undefined function RedBeanPHP\new\ArrayIterator()
+[22-Aug-2022 09:42:51 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:42:55 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:42:55 UTC] Page /login?&register=1 not found
+[22-Aug-2022 09:43:01 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:43:12 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:43:14 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:43:14 UTC] Call to undefined function RedBeanPHP\new\ArrayIterator()
+[22-Aug-2022 09:43:18 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 09:43:18 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:10:25 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:10:31 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:10:31 UTC] Call to undefined function RedBeanPHP\new\ArrayIterator()
+[22-Aug-2022 10:10:55 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:10:55 UTC] Class "RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper" not found
+[22-Aug-2022 10:10:55 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:10:55 UTC] Page /staff/css/style.css not found
+[22-Aug-2022 10:10:55 UTC] Class "RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper" not found
+[22-Aug-2022 10:11:28 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:11:28 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 10:11:28 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:11:28 UTC] Page /staff/css/style.css not found
+[22-Aug-2022 10:11:28 UTC] syntax error, unexpected namespaced name "implements\IteratorAggregate", expecting "{"
+[22-Aug-2022 10:11:43 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:11:46 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 10:11:46 UTC] RedBeanPHP\RedException: Invalid type: activity_system in /var/www/public/rb.php:15500
+Stack trace:
+#0 /var/www/public/rb.php(15576): RedBeanPHP\Util\DispenseHelper::checkType('activity_system')
+#1 /var/www/public/rb.php(12697): RedBeanPHP\Util\DispenseHelper::dispense(Object(RedBeanPHP\OODB), 'activity_system', 1, false)
+#2 /var/www/public/bb-library/Box/Database.php(40): RedBeanPHP\Facade::dispense('activity_system')
+#3 /var/www/public/bb-modules/Activity/Service.php(32): Box_Database->dispense('ActivitySystem')
+#4 /var/www/public/bb-library/Box/LogDb.php(43): Box\Mod\Activity\Service->logEvent(Array)
+#5 /var/www/public/bb-library/Box/Log.php(130): Box_LogDb->write(Array)
+#6 /var/www/public/bb-library/Box/Log.php(80): Box_Log->log('Staff member 1 ...', 6)
+#7 /var/www/public/bb-modules/Staff/Service.php(63): Box_Log->__call('info', Array)
+#8 /var/www/public/bb-modules/Staff/Api/Guest.php(86): Box\Mod\Staff\Service->login('admin@gmail.com', 'rahasia', '192.168.144.1')
+#9 /var/www/public/bb-library/Api/Handler.php(112): Box\Mod\Staff\Api\Guest->login(Array)
+#10 /var/www/public/bb-modules/Api/Controller/Client.php(165): Api_Handler->__call('staff_login', Array)
+#11 /var/www/public/bb-modules/Api/Controller/Client.php(85): Box\Mod\Api\Controller\Client->_apiCall('guest', 'staff_login', Array)
+#12 /var/www/public/bb-modules/Api/Controller/Client.php(76): Box\Mod\Api\Controller\Client->tryCall('guest', 'staff_login', Array)
+#13 [internal function]: Box\Mod\Api\Controller\Client->post_method(Object(Box_AppClient), 'guest', 'staff', 'login')
+#14 /var/www/public/bb-library/Box/App.php(199): ReflectionMethod->invokeArgs(Object(Box\Mod\Api\Controller\Client), Array)
+#15 /var/www/public/bb-library/Box/App.php(249): Box_App->executeShared('Box\\Mod\\Api\\Con...', 'post_method', Array)
+#16 /var/www/public/bb-library/Box/App.php(143): Box_App->processRequest()
+#17 /var/www/public/index.php(27): Box_App->run()
+#18 {main}
+[22-Aug-2022 10:11:47 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24
+[22-Aug-2022 11:36:33 UTC] 8192 Required parameter $requestUri follows optional parameter $conditions /var/www/public/bb-library/Box/UrlHelper.php 24

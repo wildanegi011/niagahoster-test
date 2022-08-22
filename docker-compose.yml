@@ -1,0 +1,63 @@
+version: '3.5'
+
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: wildan/boxbilling
+    container_name: niagahoster-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
+    networks:
+      - niagahoster
+
+  db:
+    image: mysql:latest
+    container_name: niagahoster-db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: boxbilling
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD} 
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_USER: ${DB_USERNAME}
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    # ports:
+    #   - 3306:3306
+    volumes:
+      - ./config/mysql/init:/docker-entrypoint-initdb.d
+      - mysql_db_data_container:/var/lib/mysql
+    networks:
+      - niagahoster
+
+  nginx:
+    image: nginx:alpine
+    container_name: niagahoster-nginx
+    restart: unless-stopped
+    ports:
+      - 8004:80
+    volumes:
+      - ./:/var/www
+      - ./config/nginx:/etc/nginx/conf.d/
+    networks:
+      - niagahoster
+
+  adminer:
+    image: adminer
+    container_name: niagahoster-adminer
+    restart: always
+    ports:
+      - 8005:8080
+    networks:
+      - niagahoster
+
+volumes:
+  mysql_db_data_container:
+    driver: local
+
+networks:
+  niagahoster:
+    name: niagahoster
