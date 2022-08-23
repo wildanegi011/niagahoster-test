@@ -73,4 +73,4 @@ for example api price [get price api](https://mockend.com/wildanegi011/niagahost
 # Netlify
 
 you can see documentation in [netlify](https://www.netlify.com)
-you olso can access this [landing page](https://dainty-gnome-46ba36.netlify.app)/
+you olso can access this [landing page](https://profound-brigadeiros-68c5e9.netlify.app/)/
